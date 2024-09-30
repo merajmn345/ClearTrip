@@ -1,0 +1,92 @@
+.login-container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 0px 32px;
+}
+
+.customModal {
+  border-radius: 8px;
+  width: 100%;
+}
+.customLogoutModal {
+  margin-top: 40px;
+  margin-left: 1075px;
+  width: 220px;
+  height: auto;
+  border-radius: 5px;
+  background-color: none;
+}
+
+.name-label {
+  line-height: 20px;
+  font-size: 14px;
+  padding: 8px;
+  height: 31px;
+  width: 100%;
+  color: #1a1a1a;
+  font-weight: 500;
+}
+
+.input-name {
+  line-height: 20px;
+  font-size: 14px;
+  padding: 8px;
+  height: 35px;
+  width: 100%;
+  color: #1a1a1a;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+.login-btn {
+  margin-top: 20px;
+  line-height: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  background-color: #000;
+  border-color: transparent;
+  color: #fff;
+  width: 336px;
+  height: 40px;
+  border-radius: 8px;
+}
+
+.already-acc-para {
+  margin-top: 8px;
+  color: #1a1a1a;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+}
+
+.already-acc {
+  color: #36c;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+}
+.logout {
+  color: rgb(223, 103, 17);
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 14px;
+  text-decoration: underline;
+  left: 0;
+}
+.name {
+}
+.myacc-email {
+  display: flex;
+  color: grey;
+  font-size: 16px;
+  font-weight: 400;
+}
+button.react-responsive-modal-closeButton {
+  top: 8px;
+  right: 8px;
+  border: 0px;
+}

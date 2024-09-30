@@ -1,0 +1,31 @@
+.hotel-img-card {
+  width: 288px;
+  height: 240px;
+  object-fit: cover;
+}
+/* .hotels-images {
+  width: 288px;
+  height: 240px;
+} */
+.hotel-img {
+  object-fit: cover;
+  border-radius: 8px;
+  width: 297px;
+  height: 240px;
+}
+#hotelCarousel {
+  border-radius: 5px !important;
+}
+
+/* SingleHotelImage */
+.single-hotel-image,
+.image-container {
+  width: 600px;
+  height: 408px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.singlehotel-all-images {
+  width: 600px;
+  height: 408px;
+}
